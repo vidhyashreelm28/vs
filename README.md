@@ -1,3 +1,3 @@
 My first github repository.
 <br>
-author - Vidhyashree LM
+Author - Vidhyashree LM
